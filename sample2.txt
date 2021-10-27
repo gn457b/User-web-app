@@ -1,2 +1,2 @@
 sample2
-stash lecture file 2
+stash lecture file change 2
